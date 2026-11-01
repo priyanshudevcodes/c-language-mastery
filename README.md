@@ -7,7 +7,7 @@ first semester of B.Tech CSE (Robotics & AI).
 
 | No. | Program | Concepts |
 |-----|---------|----------|
-| 01 | [Area of a Circle](programs/01_area_of_circle.c) | variables, float, scanf, & |
+| 01 | [Area of a Circle](01_area_of_circle.c) | variables, float, scanf, & |
 
 ## How to run
 
